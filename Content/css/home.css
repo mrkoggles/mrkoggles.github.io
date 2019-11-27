@@ -2,6 +2,7 @@ body {
     font-family: "Monserrat", sans-serif;
     background: #eeeeee;
     color: #575757;
+    font-size: .9rem;
 }
 
 i {
@@ -23,7 +24,7 @@ h4 {
 }
 
 li {
-    margin-bottom: 10px;
+    margin-bottom: 2px;
 }
 
 
@@ -88,11 +89,11 @@ li {
 }
 
 .experience {
-    margin-bottom: 50px;
+    margin-bottom: 15px;
 }
 
 .resume-section {
-    margin-bottom: 50px;
+    /* margin-bottom: 50px; */
 }
 
 #sidebar h3 {
@@ -106,7 +107,7 @@ li {
 
 .info {
     color: #d0ecf5;
-    font-size: .9rem;
+    font-size: .7rem;
 }
 
 .info-section {
@@ -134,3 +135,11 @@ li {
     border-radius: 50%;
 }
 
+.experience-body p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.experience-body ul {
+    margin-top: 6px;
+}
